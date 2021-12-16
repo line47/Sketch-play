@@ -1,0 +1,88 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "86846F01-BDF4-47B3-8E03-20AB12929685",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "2C090B58-9A85-4D9B-A307-B06F35B4345E",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "8DBF5FC8-0A5E-490D-BB69-4F2924E66549",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "81",
+    "build": 135625,
+    "version": 136
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "DE2A6A3A-3156-47E1-8808-66E3CD70891E",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "5eb9b599083283562ddd4db6": {
+          "name": "mgov design system",
+          "styleguideId": "5eb9b599083283562ddd4db6"
+        },
+        "600b28fe251075cdeeb20ce2": {
+          "name": "Core design system",
+          "styleguideId": "600b28fe251075cdeeb20ce2"
+        },
+        "602ffb466d10f937ada2a44f": {
+          "name": "hcgov design system",
+          "styleguideId": "602ffb466d10f937ada2a44f"
+        },
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
